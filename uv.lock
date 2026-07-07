@@ -3432,7 +3432,7 @@ requires-dist = [
     { name = "opencv-python", specifier = ">=4.5.5.64" },
     { name = "pandas", marker = "extra == 'metrics'", specifier = ">=2" },
     { name = "pillow", specifier = ">=9.4" },
-    { name = "pydeprecate", specifier = ">=0.9,<0.10" },
+    { name = "pydeprecate", specifier = ">=0.9,<0.11" },
     { name = "pyyaml", specifier = ">=5.3" },
     { name = "rasterio", marker = "extra == 'geotiff'", specifier = ">=1.3" },
     { name = "requests", specifier = ">=2.26" },
